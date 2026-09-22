@@ -6,7 +6,7 @@
  */
 const PWA_CONFIG = {
   // 🔗 ضع رابط تطبيق Apps Script بعد النشر هنا
-  APP_URL: 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec',
+  APP_URL: 'https://script.google.com/macros/s/AKfycbypIn3h_LBE0JOOjW4cwatyDrcSrCmCvs2-5R-fyxToLsfB9Jr6WmQYc7u0zBor3MiK/exec',
 
   // 📋 معلومات التطبيق
   APP_NAME: 'مركز إرسال الرسائل',
